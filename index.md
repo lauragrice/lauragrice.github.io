@@ -27,4 +27,4 @@ I am a postdoc based at the Université Claude Bernard Lyon 1 in Lyon, France. I
 
 [Twitter](https://twitter.com/lauragrice_)
 
-Email: laura <dot> grice <at> univ-lyon1.fr
+Email: laura {dot} grice {at} univ-lyon1.fr
