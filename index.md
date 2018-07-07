@@ -29,4 +29,4 @@ I am a postdoc based at the Université Claude Bernard Lyon 1 in Lyon, France. I
 
 [Lab website](http://umr5023.univ-lyon1.fr/annuaire/details/1/205-grice-laura)
 
-Email: laura.grice *at* univ-lyon.fr
+Email: laura.grice *at* univ-lyon1.fr
